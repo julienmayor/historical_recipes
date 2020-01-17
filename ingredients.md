@@ -8,4 +8,4 @@ Ingredients:
 - wooden spoon
 - more chives
 - a good, old skillet
-- a wooden spoon
+- a very old wooden spoon
