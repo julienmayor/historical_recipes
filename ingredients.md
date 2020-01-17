@@ -1,6 +1,6 @@
 Ingredients:
 
-- 12 Eggs
+- 12 *Eggs*
 - 6 tbsp sweet cream
 - 1 tbsp butter
 - a bunch of chives
