@@ -1,4 +1,4 @@
-Ingredients:
+**Ingredients:**
 
 - 12 *Eggs*
 - 6 tbsp sweet cream
