@@ -4,7 +4,7 @@ Ingredients:
 - 6 tbsp sweet cream
 - 1 tbsp butter
 - a bunch of chives
-- skillet
+- a good, old skillet # changed
 - wooden spoon
 - more chives
 - a good, old skillet
