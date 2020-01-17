@@ -12,7 +12,7 @@
 
 additional information:
 - reference: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-# additioanal ingrients:
+# additional ingredients:
 -  1 L milk
 ## option_1
 - a bunch of apple
