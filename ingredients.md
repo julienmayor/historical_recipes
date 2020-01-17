@@ -8,7 +8,7 @@
 - *wooden spoon*
 - more chives
 - a good, old skillet
-- a very old wooden spoon
+- a *very* old wooden spoon
 
 additional information:
 - reference: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
