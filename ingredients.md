@@ -7,3 +7,5 @@ Ingredients:
 - skillet
 - wooden spoon
 - more chives
+- a good, old skillet
+- a wooden spoon
